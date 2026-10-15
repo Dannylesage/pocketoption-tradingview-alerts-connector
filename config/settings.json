@@ -3,11 +3,11 @@
   "api_server": "https://api1.api.cbtradersbd.com/docs",
   "ws_endpoint": "wss://api1.api.cbtradersbd.com/ws/pocket option",
   "reconnect_interval_sec": 5,
-  "candle_timeframe": "1m",
+  "candle_timeframe": "5sec",
   "non_repaint_filter": true,
-  "telegram_alerts": {
+  "whatsapp-alerts": {
     "enabled": true,
     "channel": "https://t.me/+R_kEsY9yqkA1NDI1",
-    "demo_bot": "https://t.me/cbsignalsproai_bot?start=1"
+    "real_bot": "https://t.me/cbsignalsproai_bot?start=1"
   }
 }
